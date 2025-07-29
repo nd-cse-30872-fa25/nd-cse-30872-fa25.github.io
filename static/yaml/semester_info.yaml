@@ -4,7 +4,7 @@ Instructor:
   name: Bill Theisen
   netid: wtheisen
   office_hours:
-    Thursday: 1:00 PM - 4:00 PM
+    Thursday: TBD
   oh_location: 356B Fitz
 TAs:
   msorenso:
@@ -26,13 +26,13 @@ TAs:
       Wednesday: 5:00 PM - 6:00 PM
     oh_location: CSE Commons
   mhines2:
-    github: mhines2
+    github: ekoran
     level: Undergraduate
-    name: Michael Hines
-    netid: mhines2
+    name: Ethan Koran
+    netid: ekoran
     office_hours:
       Monday: 11:00 AM - 12:00 PM
       Wednesday: 11:00 AM - 12:00 PM
     oh_location: CSE Commons
-Term: Spring
+Term: Fall
 Year: '2025'
