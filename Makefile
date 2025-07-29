@@ -1,4 +1,4 @@
-COURSE=		cse.30872.fa24
+COURSE=		cse.30872.fa25
 WWWROOT=	docs
 COMMON= 	scripts/yasb.py templates/base.tmpl $(wildcard static/yaml/*.yaml)
 RSYNC_FLAGS= 	-rv --copy-links --progress --exclude="*.swp" --exclude="*.yaml" --size-only

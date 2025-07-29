@@ -20,6 +20,8 @@ import collections
 import itertools
 import sys
 
+print(sys.executable)
+
 import dateutil.parser
 import tornado.template
 import markdown
