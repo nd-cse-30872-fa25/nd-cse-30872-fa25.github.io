@@ -12,9 +12,9 @@ all:		$(HTML)
 
 build:		$(HTML)
 	mkdir -p $(WWWROOT)/static
-	cp -frv pages/*.html		$(WWWROOT)/.
-	cp -frv static/*		$(WWWROOT)/static/.
-	cp -frv static/ico/favicon.ico	$(WWWROOT)/.
+	cp -frv pages/*.html		$(WWWROOT)
+	cp -frv static/*		$(WWWROOT)/static
+	cp -frv static/ico/favicon.ico	$(WWWROOT)
 
 install:	build
 	lftp -c "open www3ftps.nd.edu; mirror -n -e -R -L $(WWWROOT) www/teaching/$(COURSE)"
