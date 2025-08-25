@@ -1,4 +1,4 @@
-static/csv/students.csv
+static/csv/*
 pages/*.html
 *.pyc
 *.swp

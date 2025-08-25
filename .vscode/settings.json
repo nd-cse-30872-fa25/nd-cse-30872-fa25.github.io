@@ -4,5 +4,6 @@
         "activityBar.background": "#0B342C",
         "titleBar.activeBackground": "#10493E",
         "titleBar.activeForeground": "#F2FCFA"
-    }
+    },
+    "makefile.configureOnOpen": false
 }
