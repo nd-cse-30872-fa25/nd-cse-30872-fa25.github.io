@@ -13,8 +13,8 @@ TAs:
     name: Michael Sorenson
     netid: msorenso
     office_hours:
-      Tuesday: 6:00 PM - 7:00 PM
-      Thursday: 6:00 PM - 7:00 PM
+      Monday: 6:00 PM - 7:00 PM
+      Wednesday: 6:00 PM - 7:00 PM
     oh_location: Inno Lounge
   mpinedam:
     github: TAPMelvin
@@ -22,8 +22,8 @@ TAs:
     name: Melvin Pineda Miguel
     netid: mpinedam
     office_hours:
-      Monday: 5:00 PM - 6:00 PM
-      Wednesday: 5:00 PM - 6:00 PM
+      Tuesday: 5:00 PM - 6:00 PM
+      Thursday: 5:00 PM - 6:00 PM
     oh_location: CSE Commons
   mhines2:
     github: ekoran
