@@ -30,9 +30,6 @@
       link: https://docs.google.com/presentation/d/1Hpj6nVhQsbO8gHe1-BinNbQ71nKC7IU1PM4a3iwH1Tc/edit?usp=sharing
     - name: Panopto
       link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6420fd1b-07e1-44e4-a147-b2680136dc28
-  - date: Sun 08/31
-    assignments:
-    - Challenge 00
   - date: Mon 09/01
     topics: Stacks, Queues
     items:
@@ -42,6 +39,7 @@
       link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28e3e24b-6949-4f4e-bc7c-b26d01370e30
     assignments:
     - Reading 01
+    - Challenge 00
   - date: Wed 09/03
     topics: Stacks, Queues
     items:
