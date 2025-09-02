@@ -10,7 +10,7 @@
     - name: Slides
       link: https://docs.google.com/presentation/d/1HkUSuYkob8u5yyOLfhAKu5VRl9f2nwvXflz85_MtS6w/edit?usp=sharing
     - name: Panopto
-      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b252fd8-299b-4775-8797-b26401349370
+      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=702dca72-4561-4e66-ae28-b344010e8b3c
 - name: 'Unit 01: Data Structures and Algorithms'
 - name: Sequence Containers
   days:
@@ -20,7 +20,7 @@
     - name: Slides
       link: https://docs.google.com/presentation/d/1DxsKBEFkPAloiL894onMYEDCb8emZ8ucXc6QDLk1r_Q/edit?usp=sharing
     - name: Panopto
-      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31650f16-7062-4471-a641-b266013720ed
+      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6364babe-18ba-49ff-8b5a-b346010a53e2
   - date: Fri 08/29
     topics: Complexity, Coding Style
     items:
@@ -29,14 +29,14 @@
     - name: Slides
       link: https://docs.google.com/presentation/d/1Hpj6nVhQsbO8gHe1-BinNbQ71nKC7IU1PM4a3iwH1Tc/edit?usp=sharing
     - name: Panopto
-      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6420fd1b-07e1-44e4-a147-b2680136dc28
+      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e05bc6c-11fe-4dbc-8871-b3480110897f
   - date: Mon 09/01
     topics: Stacks, Queues
     items:
     - name: Slides
       link: https://docs.google.com/presentation/d/1lzuMS5Pe7HD34D5nTyCoTNmTudIP9e8fprLY_Ezp_4o/edit?usp=sharing
     - name: Panopto
-      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28e3e24b-6949-4f4e-bc7c-b26d01370e30
+      link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bfbc008-3405-4bc0-b707-b34b010ed7b4
     assignments:
     - Reading 01
     - Challenge 00
