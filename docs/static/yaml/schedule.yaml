@@ -58,15 +58,15 @@
     assignments:
     - Challenge 01
     - Challenge 02
-- name: Searching, Sorting
+- name: Sorting
   days:
   - date: Mon 09/08
-    topics: Searching
+    topics: Sorting
     assignments:
     - Reading 02
     items:
     - name: Slides
-      link: 
+      link: https://docs.google.com/presentation/d/1c8duDG_JRQTOSQCSXNltK-rauwGEEGBtgF7pHwuupMA/edit?usp=sharing
     - name: Panopto
       link: https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9404e94-d20f-4edd-a73e-b272013628cd
   - date: Wed 09/10
