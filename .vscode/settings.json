@@ -1,9 +1,4 @@
 {
-    "workbench.colorCustomizations": {
-        "editor.background": "#000000",
-        "activityBar.background": "#0B342C",
-        "titleBar.activeBackground": "#10493E",
-        "titleBar.activeForeground": "#F2FCFA"
-    },
+    "workbench.colorCustomizations": {},
     "makefile.configureOnOpen": false
 }
